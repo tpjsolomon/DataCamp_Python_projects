@@ -1,2 +1,2 @@
-# DataCamp projects
-This repository contains jupyter notebook files for projects I have completed on DataCamp.
+# DataCamp Python projects
+This repository contains Jupyter notebook files for the Python projects I have completed in DataCamp.
